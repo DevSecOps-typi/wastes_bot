@@ -1,1 +1,1 @@
-# bughet-bot
+# wastes_bot
